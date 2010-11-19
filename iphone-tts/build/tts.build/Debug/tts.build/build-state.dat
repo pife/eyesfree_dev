@@ -1,0 +1,92 @@
+Ttts
+v7
+r1
+cCheck dependencies
+
+N/Users/jeska/Desktop/iphone-tts-f2e630da1442/iphone-tts/COPYING
+c000000004BB376920000000000000C86
+t1270052498
+s3206
+
+N/Users/jeska/Desktop/iphone-tts-f2e630da1442/iphone-tts/MainWindow.xib
+c000000004BB3769200000000000023E9
+t1270052498
+s9193
+
+N/Users/jeska/Desktop/iphone-tts-f2e630da1442/iphone-tts/README
+c000000004BB376920000000000000880
+t1270052498
+s2176
+
+N/Users/jeska/Desktop/iphone-tts-f2e630da1442/iphone-tts/build/Debug/tts.app
+t2
+s0
+
+N/Users/jeska/Desktop/iphone-tts-f2e630da1442/iphone-tts/build/Debug/tts.app/Contents/Info.plist
+t2
+s0
+
+N/Users/jeska/Desktop/iphone-tts-f2e630da1442/iphone-tts/build/Debug/tts.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/jeska/Desktop/iphone-tts-f2e630da1442/iphone-tts/build/Debug/tts.app/Contents/Resources/COPYING
+t2
+s0
+
+N/Users/jeska/Desktop/iphone-tts-f2e630da1442/iphone-tts/build/Debug/tts.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/jeska/Desktop/iphone-tts-f2e630da1442/iphone-tts/build/Debug/tts.app/Contents/Resources/README
+t2
+s0
+
+N/Users/jeska/Desktop/iphone-tts-f2e630da1442/iphone-tts/build/Debug/tts.app/Contents/Resources/ttsViewController.nib
+t2
+s0
+
+N/Users/jeska/Desktop/iphone-tts-f2e630da1442/iphone-tts/build/Debug/tts.app/Contents/Resources/us_pos.tree
+t2
+s0
+
+N/Users/jeska/Desktop/iphone-tts-f2e630da1442/iphone-tts/flite-1.4-iphone/voices/usenglish/us_pos.tree
+c000000004BB376920000000000005506
+t1270052498
+s21766
+
+N/Users/jeska/Desktop/iphone-tts-f2e630da1442/iphone-tts/ttsViewController.xib
+c000000004BB376920000000000002541
+t1270052498
+s9537
+
+Ntts-Info.plist
+c000000004BB376920000000000000387
+t1270052498
+s903
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311827117#311827117#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos3.0'1(4@58"error: There is no SDK with the name or path 'iphoneos3.0'311827117#18446744073709551615#0#0(1@0"0(0#1#0"8622054144#0"0#
+
+CCompileXIB /Users/jeska/Desktop/iphone-tts-f2e630da1442/iphone-tts/MainWindow.xib
+r0
+
+CCompileXIB /Users/jeska/Desktop/iphone-tts-f2e630da1442/iphone-tts/ttsViewController.xib
+r0
+
+CCpResource build/Debug/tts.app/Contents/Resources/COPYING COPYING
+r0
+
+CCpResource build/Debug/tts.app/Contents/Resources/README README
+r0
+
+CCpResource build/Debug/tts.app/Contents/Resources/us_pos.tree flite-1.4-iphone/voices/usenglish/us_pos.tree
+r0
+
+CProcessInfoPlistFile /Users/jeska/Desktop/iphone-tts-f2e630da1442/iphone-tts/build/Debug/tts.app/Contents/Info.plist tts-Info.plist
+r0
+
+CTouch /Users/jeska/Desktop/iphone-tts-f2e630da1442/iphone-tts/build/Debug/tts.app
+r0
+

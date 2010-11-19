@@ -1,0 +1,536 @@
+THelloWorld
+v7
+r0
+t311826187.179934
+cCheck dependencies
+cProcessInfoPlistFile /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/Info.plist HelloWorld-Info.plist
+cCompileXIB /Users/jeska/code/iOS/HelloWorld/MainWindow.xib
+cCompileXIB /Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.xib
+cProcessPCH /var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dlitrdmezherysebqbmpmddhaiyj/HelloWorld_Prefix.pch.gch HelloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o /Users/jeska/code/iOS/HelloWorld/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o /Users/jeska/code/iOS/HelloWorld/Classes/HelloWorldAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MyViewController.o /Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld normal i386
+cGenerateDSYMFile /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app.dSYM /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+cPhaseScriptExecution "Run Script" /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-C4EB28901296014200DCE9BE.sh
+cTouch /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/AppKit
+c000000004CE5D07C0000000002B48410
+t1290129532
+s45384720
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/PrivateFrameworks/VoiceServices.framework/VoiceServices
+c000000004C5A544600000000000522F0
+t1280988230
+s336624
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004C5A50360000000000075DC0
+t1280987190
+s482752
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004C44DF2000000000000017ED
+t1279581984
+s6125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/EventKit.framework/EventKit
+c000000004C64B71500000000000C04D0
+t1281668885
+s787664
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Resources/BridgeSupport/AppKit.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/PrivateFrameworks/VoiceServices.framework
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/PrivateFrameworks/VoiceServices.framework/VoiceServices
+c00000000000000000000000000000000
+t2
+s0
+
+N/System/Library/Frameworks/AppKit.framework
+c000000004C8F934F00000000000000EE
+t1284477775
+s238
+
+N/System/Library/Frameworks/AppKit.framework/AppKit
+c000000004BD255330000000002B48410
+t1272075571
+s45384720
+
+N/Users/jeska/code/iOS/HelloWorld/Classes/HelloWorldAppDelegate.h
+c000000004C910C7500000000000001BE
+t1284574325
+s446
+i<UIKit/UIKit.h>
+
+N/Users/jeska/code/iOS/HelloWorld/Classes/HelloWorldAppDelegate.m
+c000000004CE5DE770000000000000B12
+t1290133111
+s2834
+i"MyViewController.h"
+i"HelloWorldAppDelegate.h"
+
+N/Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.h
+c000000004CE5D7A6000000000000020A
+t1290131366
+s522
+i<UIKit/UIKit.h>
+
+N/Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.m
+c000000004CE5DE5C00000000000008AA
+t1290133084
+s2218
+i"MyViewController.h"
+
+N/Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.xib
+c000000004C9162330000000000005DCF
+t1284596275
+s24015
+
+N/Users/jeska/code/iOS/HelloWorld/HelloWorld_Prefix.pch
+c000000004C8FEA1900000000000000BD
+t1284499993
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jeska/code/iOS/HelloWorld/MainWindow.xib
+c000000004C8FEA190000000000002117
+t1284499993
+s8471
+
+N/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app
+t1290133387
+s238
+
+N/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app.dSYM
+t1290133387
+s102
+
+N/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/Frameworks/AppKit.framework
+t1290127968
+s238
+
+N/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/Frameworks/VoiceServices.framework
+t2
+s0
+
+N/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+t1290133387
+s18716
+
+N/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/Info.plist
+t1290133383
+s603
+
+N/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/MainWindow.nib
+t1290133384
+s1534
+
+N/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/MyViewController.nib
+t1290133385
+s3928
+
+N/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/PkgInfo
+t1290133383
+s8
+
+N/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList
+c000000004CE5DF87000000000000018B
+t1290133383
+s395
+
+N/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o
+t1290133386
+s49276
+
+N/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MyViewController.o
+t1290133387
+s43568
+
+N/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+t1290133386
+s6292
+
+N/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-C42DB80B12960FF500C71CA0.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-C4EB28901296014200DCE9BE.sh
+c000000004CE5DF87000000000000000B
+t1290133383
+s11
+
+N/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/StaticAnalyzer/normal/i386/HelloWorldAppDelegate.plist
+t2
+s0
+
+N/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/StaticAnalyzer/normal/i386/MyViewController.plist
+t2
+s0
+
+N/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/StaticAnalyzer/normal/i386/main.plist
+t2
+s0
+
+N/Users/jeska/code/iOS/HelloWorld/main.m
+c000000004CE5CBA10000000000000172
+t1290128289
+s370
+i<UIKit/UIKit.h>
+
+N/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dahfbsswgldxyhdierrxddswgvgs/HelloWorld_Prefix.pch.gch
+t1290127968
+s15211536
+
+N/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dcxjwgkejtcctqfzufdabgdlxwmr/HelloWorld_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dlitrdmezherysebqbmpmddhaiyj/HelloWorld_Prefix.pch.gch
+t1290133386
+s15211536
+
+N/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-edkewfeddfclqhaoyghiarbvblnb/HelloWorld_Prefix.pch.gch
+t1284500229
+s15211536
+
+N/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-hbskugcrjqnppeecncxmiwburazh/HelloWorld_Prefix.pch.pth
+t2
+s0
+
+NHelloWorld-Info.plist
+c000000004C8FEA19000000000000038D
+t1284499993
+s909
+
+CAnalyze /Users/jeska/code/iOS/HelloWorld/Classes/HelloWorldAppDelegate.m
+s311821667.622801
+e311821667.796076
+r1
+xAnalyze
+x/Users/jeska/code/iOS/HelloWorld/Classes/HelloWorldAppDelegate.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dcxjwgkejtcctqfzufdabgdlxwmr/HelloWorld_Prefix.pch' file not found
+o #include "/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dcxjwgkejtcctqfzufdabgdlxwmr/HelloWorld_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@72"Analyze /Users/jeska/code/iOS/HelloWorld/Classes/HelloWorldAppDelegate.m311821667#311821667#0(466"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dcxjwgkejtcctqfzufdabgdlxwmr/HelloWorld_Prefix.pch' file not found #include "/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dcxjwgkejtcctqfzufdabgdlxwmr/HelloWorld_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors311821667#18446744073709551615#0#1(25@183"'/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dcxjwgkejtcctqfzufdabgdlxwmr/HelloWorld_Prefix.pch' file not found311821667#18446744073709551615#0#0(6@14"<command line>311821667#1#0#1#0#0"0(6@14"<command line>311821667#0#0#0#0#0"0(0#0#64"/Users/jeska/code/iOS/HelloWorld/Classes/HelloWorldAppDelegate.m8606648288#1905"    cd /Users/jeska/code/iOS/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator -I/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/include -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -include /var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dcxjwgkejtcctqfzufdabgdlxwmr/HelloWorld_Prefix.pch --analyze /Users/jeska/code/iOS/HelloWorld/Classes/HelloWorldAppDelegate.m -o /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/StaticAnalyzer/normal/i386/HelloWorldAppDelegate.plist0#
+
+CAnalyze /Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.m
+s311821667.766397
+e311821667.907755
+r1
+xAnalyze
+x/Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dcxjwgkejtcctqfzufdabgdlxwmr/HelloWorld_Prefix.pch' file not found
+o #include "/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dcxjwgkejtcctqfzufdabgdlxwmr/HelloWorld_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@67"Analyze /Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.m311821667#311821667#0(466"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dcxjwgkejtcctqfzufdabgdlxwmr/HelloWorld_Prefix.pch' file not found #include "/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dcxjwgkejtcctqfzufdabgdlxwmr/HelloWorld_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors311821667#18446744073709551615#0#1(25@183"'/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dcxjwgkejtcctqfzufdabgdlxwmr/HelloWorld_Prefix.pch' file not found311821667#18446744073709551615#0#0(6@14"<command line>311821667#1#0#1#0#0"0(6@14"<command line>311821667#0#0#0#0#0"0(0#0#59"/Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.m8606296864#1895"    cd /Users/jeska/code/iOS/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator -I/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/include -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -include /var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dcxjwgkejtcctqfzufdabgdlxwmr/HelloWorld_Prefix.pch --analyze /Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.m -o /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/StaticAnalyzer/normal/i386/MyViewController.plist0#
+
+CAnalyze /Users/jeska/code/iOS/HelloWorld/main.m
+s311821667.578066
+e311821667.766307
+r1
+xAnalyze
+x/Users/jeska/code/iOS/HelloWorld/main.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dcxjwgkejtcctqfzufdabgdlxwmr/HelloWorld_Prefix.pch' file not found
+o #include "/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dcxjwgkejtcctqfzufdabgdlxwmr/HelloWorld_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@47"Analyze /Users/jeska/code/iOS/HelloWorld/main.m311821667#311821667#0(466"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dcxjwgkejtcctqfzufdabgdlxwmr/HelloWorld_Prefix.pch' file not found #include "/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dcxjwgkejtcctqfzufdabgdlxwmr/HelloWorld_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors311821667#18446744073709551615#0#1(25@183"'/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dcxjwgkejtcctqfzufdabgdlxwmr/HelloWorld_Prefix.pch' file not found311821667#18446744073709551615#0#0(6@14"<command line>311821667#1#0#1#0#0"0(6@14"<command line>311821667#0#0#0#0#0"0(0#0#39"/Users/jeska/code/iOS/HelloWorld/main.m8606160864#1863"    cd /Users/jeska/code/iOS/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator -I/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/include -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -include /var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dcxjwgkejtcctqfzufdabgdlxwmr/HelloWorld_Prefix.pch --analyze /Users/jeska/code/iOS/HelloWorld/main.m -o /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311826183#311826183#0(0"0(0#1#0"8622093888#0"0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o /Users/jeska/code/iOS/HelloWorld/Classes/HelloWorldAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311826186.809690
+e311826187.009972
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o
+x/Users/jeska/code/iOS/HelloWorld/Classes/HelloWorldAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jeska/code/iOS/HelloWorld/Classes/HelloWorldAppDelegate.m: In function '-[HelloWorldAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/jeska/code/iOS/HelloWorld/Classes/HelloWorldAppDelegate.m:32: warning: control reaches end of non-void function
+lSLF07#2@72"Compile /Users/jeska/code/iOS/HelloWorld/Classes/HelloWorldAppDelegate.m311826186#311826187#0(268"/Users/jeska/code/iOS/HelloWorld/Classes/HelloWorldAppDelegate.m: In function '-[HelloWorldAppDelegate application:didFinishLaunchingWithOptions:]':/Users/jeska/code/iOS/HelloWorld/Classes/HelloWorldAppDelegate.m:32: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function311826186#149#119#0(6@64"/Users/jeska/code/iOS/HelloWorld/Classes/HelloWorldAppDelegate.m311825911#32#0#32#0#40"control reaches end of non-void function0(0#0#64"/Users/jeska/code/iOS/HelloWorld/Classes/HelloWorldAppDelegate.m8712131200#2181"    cd /Users/jeska/code/iOS/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/PrivateFrameworks -I/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/include -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -include /var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dlitrdmezherysebqbmpmddhaiyj/HelloWorld_Prefix.pch -c /Users/jeska/code/iOS/HelloWorld/Classes/HelloWorldAppDelegate.m -o /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorldAppDelegate.o0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MyViewController.o /Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311826186.933183
+e311826187.063207
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MyViewController.o
+x/Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.m: In function '-[MyViewController changeGreeting:]':
+o/Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.m:33: warning: 'NSObject' may not respond to '-startSpeakingString:'
+o/Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.m:33: warning: (Messages without a matching method signature
+o/Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.m:33: warning: will be assumed to return 'id' and accept
+o/Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.m:33: warning: '...' as arguments.)
+lSLF07#2@67"Compile /Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.m311826186#311826187#0(567"/Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.m: In function '-[MyViewController changeGreeting:]':/Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.m:33: warning: 'NSObject' may not respond to '-startSpeakingString:'/Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.m:33: warning: (Messages without a matching method signature/Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.m:33: warning: will be assumed to return 'id' and accept/Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.m:33: warning: '...' as arguments.)2(22@53"'NSObject' may not respond to '-startSpeakingString:'311826186#112#127#0(6@59"/Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.m311825884#33#0#33#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)311826186#239#119#0(6@59"/Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.m311825884#33#0#33#0#0"0(0#0#59"/Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.m8600045952#2171"    cd /Users/jeska/code/iOS/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/PrivateFrameworks -I/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/include -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -include /var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dlitrdmezherysebqbmpmddhaiyj/HelloWorld_Prefix.pch -c /Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.m -o /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MyViewController.o0#
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o /Users/jeska/code/iOS/HelloWorld/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311826186.807458
+e311826186.933083
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+x/Users/jeska/code/iOS/HelloWorld/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/jeska/code/iOS/HelloWorld/main.m311826186#311826186#0(0"0(0#0#39"/Users/jeska/code/iOS/HelloWorld/main.m8656299680#2139"    cd /Users/jeska/code/iOS/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/PrivateFrameworks -I/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/include -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -include /var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dlitrdmezherysebqbmpmddhaiyj/HelloWorld_Prefix.pch -c /Users/jeska/code/iOS/HelloWorld/main.m -o /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.xib
+s311826183.829856
+e311826185.279337
+r1
+xCompileXIB
+x/Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.xib
+lSLF07#2@39"CompileXIB Classes/MyViewController.xib311826183#311826185#0(0"0(0#0#61"/Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.xib8645343008#575"    cd /Users/jeska/code/iOS/HelloWorld    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/MyViewController.nib /Users/jeska/code/iOS/HelloWorld/Classes/MyViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/jeska/code/iOS/HelloWorld/MainWindow.xib
+s311826183.827957
+e311826184.905636
+r1
+xCompileXIB
+x/Users/jeska/code/iOS/HelloWorld/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib311826183#311826184#0(0"0(0#0#47"/Users/jeska/code/iOS/HelloWorld/MainWindow.xib8656299200#555"    cd /Users/jeska/code/iOS/HelloWorld    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/MainWindow.nib /Users/jeska/code/iOS/HelloWorld/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app.dSYM /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+s311826187.130508
+e311826187.153029
+r1
+xGenerateDSYMFile
+x/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app.dSYM
+x/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/HelloWorld.app.dSYM build/Debug-iphonesimulator/HelloWorld.app/HelloWorld311826187#311826187#0(0"0(0#0#86"/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld8711443456#374"    cd /Users/jeska/code/iOS/HelloWorld    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld -o /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app.dSYM0#
+
+CLd /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld normal i386
+s311826187.063308
+e311826187.130414
+r1
+xLd
+x/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld
+xnormal
+xi386
+old: warning: directory '/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Resources/BridgeSupport' following -L not found
+lSLF07#2@91"Link /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld311826187#311826187#0(182"ld: warning: directory '/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Resources/BridgeSupport' following -L not found1(22@168"Directory '/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Resources/BridgeSupport' following -L not found311826187#0#182#0(6@0"311826187#0#0#0#0#0"0(0#0#0"8711336384#1636"    cd /Users/jeska/code/iOS/HelloWorld    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator -L/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Resources/BridgeSupport -L/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks -L/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/AppKit.framework -L/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/PrivateFrameworks/VoiceServices.framework -F/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/PrivateFrameworks -filelist /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/HelloWorld0#
+
+CPBXCp build/Debug-iphonesimulator/HelloWorld.app/Frameworks/AppKit.framework /System/Library/Frameworks/AppKit.framework
+s311820768.683649
+e311820776.075618
+r1
+xPBXCp
+xbuild/Debug-iphonesimulator/HelloWorld.app/Frameworks/AppKit.framework
+x/System/Library/Frameworks/AppKit.framework
+lSLF07#2@48"Copy /System/Library/Frameworks/AppKit.framework311820768#311820776#0(0"0(0#0#43"/System/Library/Frameworks/AppKit.framework8619644896#450"    cd /Users/jeska/code/iOS/HelloWorld    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /System/Library/Frameworks/AppKit.framework /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/Frameworks0#
+
+CPBXCp build/Debug-iphonesimulator/HelloWorld.app/Frameworks/VoiceServices.framework /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/PrivateFrameworks/VoiceServices.framework
+s311824407.875571
+e311824407.880470
+r0
+xPBXCp
+xbuild/Debug-iphonesimulator/HelloWorld.app/Frameworks/VoiceServices.framework
+x/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/PrivateFrameworks/VoiceServices.framework
+opbxcp: VoiceServices.framework: No such file or directory
+lSLF07#2@145"Copy /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/PrivateFrameworks/VoiceServices.framework311824407#311824407#0(58"pbxcp: VoiceServices.framework: No such file or directory1(4@57"pbxcp: VoiceServices.framework: No such file or directory311824407#18446744073709551615#0#0(6@0"311824407#0#0#0#0#0"0(0#0#140"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/PrivateFrameworks/VoiceServices.framework8617595520#547"    cd /Users/jeska/code/iOS/HelloWorld    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/PrivateFrameworks/VoiceServices.framework /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/Frameworks1#
+
+CPhaseScriptExecution "Run Script" /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-C42DB80B12960FF500C71CA0.sh
+r0
+
+CPhaseScriptExecution "Run Script" /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-C4EB28901296014200DCE9BE.sh
+s311826187.153124
+e311826187.173702
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-C4EB28901296014200DCE9BE.sh
+lSLF07#2@36"Run custom shell script 'Run Script'311826187#311826187#0(0"0(0#0#0"8645237952#17613"    cd /Users/jeska/code/iOS/HelloWorld    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER jeska    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/jeska/code/iOS/HelloWorld/build    setenv BUILD_ROOT /Users/jeska/code/iOS/HelloWorld/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH HelloWorld.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH HelloWorld.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/HelloWorld.dst    setenv DWARF_DSYM_FILE_NAME HelloWorld.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH HelloWorld.app/Executables    setenv EXECUTABLE_FOLDER_PATH HelloWorld.app    setenv EXECUTABLE_NAME HelloWorld    setenv EXECUTABLE_PATH HelloWorld.app/HelloWorld    setenv FILE_LIST /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH HelloWorld.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/PrivateFrameworks"    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME HelloWorld.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER HelloWorld_Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE HelloWorld-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH HelloWorld.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH HelloWorld.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/HelloWorld.dst/Users/jeska/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER jeska    setenv INSTALL_PATH /Users/jeska/Applications    setenv INSTALL_ROOT /tmp/HelloWorld.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 4.1    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH HelloWorld.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Resources/BridgeSupport /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/AppKit.framework /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/PrivateFrameworks/VoiceServices.framework"    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH HelloWorld.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1064    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0604    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal    setenv OBJROOT /Users/jeska/code/iOS/HelloWorld/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH HelloWorld.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/PkgInfo    setenv PKGINFO_PATH HelloWorld.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH HelloWorld.app/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH HelloWorld.app/PrivateHeaders    setenv PRODUCT_NAME HelloWorld    setenv PRODUCT_SETTINGS_PATH /Users/jeska/code/iOS/HelloWorld/HelloWorld-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT HelloWorld    setenv PROJECT_DERIVED_FILE_DIR /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/DerivedSources    setenv PROJECT_DIR /Users/jeska/code/iOS/HelloWorld    setenv PROJECT_FILE_PATH /Users/jeska/code/iOS/HelloWorld/HelloWorld.xcodeproj    setenv PROJECT_NAME HelloWorld    setenv PROJECT_TEMP_DIR /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build    setenv PUBLIC_HEADERS_FOLDER_PATH HelloWorld.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH HelloWorld.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk    setenv SDK_NAME iphonesimulator4.1    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH HelloWorld.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH HelloWorld.app/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/jeska/code/iOS/HelloWorld    setenv SRCROOT /Users/jeska/code/iOS/HelloWorld    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES 1    setenv SYMBOL_REPOSITORY_DIR /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/SymbolRepositories    setenv SYMROOT /Users/jeska/code/iOS/HelloWorld/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME HelloWorld    setenv TARGET_BUILD_DIR /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator    setenv TARGET_NAME HelloWorld    setenv TARGET_TEMP_DIR /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build    setenv TEMP_DIR /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build    setenv TEMP_FILES_DIR /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build    setenv TEMP_FILE_DIR /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build    setenv TEMP_ROOT /Users/jeska/code/iOS/HelloWorld/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH HelloWorld.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER jeska    setenv USER_APPS_DIR /Users/jeska/Applications    setenv USER_LIBRARY_DIR /Users/jeska/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH HelloWorld.app/version.plist    setenv VERSION_INFO_BUILDER jeska    setenv VERSION_INFO_FILE HelloWorld_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:HelloWorld  PROJECT:HelloWorld-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME HelloWorld.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_VERSION_ACTUAL 0324    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-C4EB28901296014200DCE9BE.sh0#
+
+CProcessInfoPlistFile /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/Info.plist HelloWorld-Info.plist
+s311826183.820889
+e311826183.827870
+r1
+xProcessInfoPlistFile
+x/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/Info.plist
+xHelloWorld-Info.plist
+lSLF07#2@29"Process HelloWorld-Info.plist311826183#311826183#0(0"0(0#0#54"/Users/jeska/code/iOS/HelloWorld/HelloWorld-Info.plist8698574880#470"    cd /Users/jeska/code/iOS/HelloWorld    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HelloWorld-Info.plist -genpkginfo /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app/Info.plist0#
+
+CProcessPCH /var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dahfbsswgldxyhdierrxddswgvgs/HelloWorld_Prefix.pch.gch HelloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311820766.901702
+e311820768.265746
+r1
+xProcessPCH
+x/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dahfbsswgldxyhdierrxddswgvgs/HelloWorld_Prefix.pch.gch
+xHelloWorld_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile HelloWorld_Prefix.pch311820766#311820768#0(0"0(0#0#54"/Users/jeska/code/iOS/HelloWorld/HelloWorld_Prefix.pch7236284523811400704#1915"    cd /Users/jeska/code/iOS/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks -I/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/include -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -c /Users/jeska/code/iOS/HelloWorld/HelloWorld_Prefix.pch -o /var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dahfbsswgldxyhdierrxddswgvgs/HelloWorld_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dcxjwgkejtcctqfzufdabgdlxwmr/HelloWorld_Prefix.pch.pth HelloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s311821666.972212
+e311821667.576353
+r1
+xProcessPCH
+x/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dcxjwgkejtcctqfzufdabgdlxwmr/HelloWorld_Prefix.pch.pth
+xHelloWorld_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+oIn file included from /Users/jeska/code/iOS/HelloWorld/HelloWorld_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator
+o   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);
+o                       ^
+oIn file included from /Users/jeska/code/iOS/HelloWorld/HelloWorld_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from:
+o # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING
+o                                ^
+o<scratch space>:82:1: note: instantiated from:
+o __AVAILABILITY_INTERNAL__MAC_10_7
+o ^
+oIn file included from /Users/jeska/code/iOS/HelloWorld/HelloWorld_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type
+o + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                           ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type
+o + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                      ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type
+o + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview
+o                                                                                                                  ^
+oIn file included from /Users/jeska/code/iOS/HelloWorld/HelloWorld_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState'
+o @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                               ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type
+o - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o    ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type
+o - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                            ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type
+o - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o                                             ^
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type
+o - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o    ^
+oIn file included from /Users/jeska/code/iOS/HelloWorld/HelloWorld_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+oIn file included from /Users/jeska/code/iOS/HelloWorld/HelloWorld_Prefix.pch:7:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+o11 errors generated.
+lSLF07#2@32"Precompile HelloWorld_Prefix.pch311821666#311821667#0(8093"In file included from /Users/jeska/code/iOS/HelloWorld/HelloWorld_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);                       ^In file included from /Users/jeska/code/iOS/HelloWorld/HelloWorld_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from: # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING                                ^<scratch space>:82:1: note: instantiated from: __AVAILABILITY_INTERNAL__MAC_10_7 ^In file included from /Users/jeska/code/iOS/HelloWorld/HelloWorld_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                           ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                      ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview                                                                                                                  ^In file included from /Users/jeska/code/iOS/HelloWorld/HelloWorld_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState' @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                               ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);    ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                            ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);                                             ^/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);    ^In file included from /Users/jeska/code/iOS/HelloWorld/HelloWorld_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^In file included from /Users/jeska/code/iOS/HelloWorld/HelloWorld_Prefix.pch:7:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^11 errors generated.1(25@46"Analyzer skipped this file due to parse errors311821667#18446744073709551615#0#11(25@48"expected function body after function declarator311821667#18446744073709551615#0#0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#60#0#60#0#0"0(25@15"expected a type311821667#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#250#0#250#0#0"0(25@15"expected a type311821667#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#256#0#256#0#0"0(25@15"expected a type311821667#18446744073709551615#0#0(6@142"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#258#0#258#0#0"0(25@38"unknown type name 'UIApplicationState'311821667#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#187#0#187#0#0"0(25@15"expected a type311821667#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#190#0#190#0#0"0(25@15"expected a type311821667#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#191#0#191#0#0"0(25@15"expected a type311821667#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#202#0#202#0#0"0(25@15"expected a type311821667#18446744073709551615#0#0(6@149"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#206#0#206#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'311821667#18446744073709551615#0#0(6@146"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h303200622#82#0#82#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'311821667#18446744073709551615#0#0(6@145"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h303200623#54#0#54#0#0"0(6@155"/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#0#0#0#0#0"0(0#0#54"/Users/jeska/code/iOS/HelloWorld/HelloWorld_Prefix.pch8606422656#1740"    cd /Users/jeska/code/iOS/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator -I/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/include -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -c /Users/jeska/code/iOS/HelloWorld/HelloWorld_Prefix.pch -o /var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dcxjwgkejtcctqfzufdabgdlxwmr/HelloWorld_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dlitrdmezherysebqbmpmddhaiyj/HelloWorld_Prefix.pch.gch HelloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311826185.279455
+e311826186.807215
+r1
+xProcessPCH
+x/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dlitrdmezherysebqbmpmddhaiyj/HelloWorld_Prefix.pch.gch
+xHelloWorld_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile HelloWorld_Prefix.pch311826185#311826186#0(0"0(0#0#54"/Users/jeska/code/iOS/HelloWorld/HelloWorld_Prefix.pch8605875424#2034"    cd /Users/jeska/code/iOS/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks -F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/PrivateFrameworks -I/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/include -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -c /Users/jeska/code/iOS/HelloWorld/HelloWorld_Prefix.pch -o /var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-dlitrdmezherysebqbmpmddhaiyj/HelloWorld_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-edkewfeddfclqhaoyghiarbvblnb/HelloWorld_Prefix.pch.gch HelloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s306193028.519084
+e306193029.902874
+r1
+xProcessPCH
+x/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-edkewfeddfclqhaoyghiarbvblnb/HelloWorld_Prefix.pch.gch
+xHelloWorld_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile HelloWorld_Prefix.pch306193028#306193029#0(0"0(0#0#54"/Users/jeska/code/iOS/HelloWorld/HelloWorld_Prefix.pch8604773792#1803"    cd /Users/jeska/code/iOS/HelloWorld    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -F/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator -I/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/include -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -c /Users/jeska/code/iOS/HelloWorld/HelloWorld_Prefix.pch -o /var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-edkewfeddfclqhaoyghiarbvblnb/HelloWorld_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-hbskugcrjqnppeecncxmiwburazh/HelloWorld_Prefix.pch.pth HelloWorld_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+r0
+
+CTouch /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app
+s311826187.173780
+e311826187.179891
+r1
+xTouch
+x/Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app
+lSLF07#2@81"Touch /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app311826187#311826187#0(0"0(0#0#0"8616633216#269"    cd /Users/jeska/code/iOS/HelloWorld    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jeska/code/iOS/HelloWorld/build/Debug-iphonesimulator/HelloWorld.app0#
+

@@ -1,0 +1,191 @@
+THelloWorld
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004C6DE9E30000000000000110
+t1282271715
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A51050000000000345F00
+t1280987397
+s3432192
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Users/jeska/code/iOS/HelloWorld/Classes/HelloWorldAppDelegate.h
+c000000004C8FEA190000000000000156
+t1284499993
+s342
+i<UIKit/UIKit.h>
+
+N/Users/jeska/code/iOS/HelloWorld/Classes/HelloWorldAppDelegate.m
+c000000004C8FEA1900000000000009DB
+t1284499993
+s2523
+i"HelloWorldAppDelegate.h"
+
+N/Users/jeska/code/iOS/HelloWorld/HelloWorld_Prefix.pch
+c000000004C8FEA1900000000000000BD
+t1284499993
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jeska/code/iOS/HelloWorld/MainWindow.xib
+c000000004C8FEA190000000000002117
+t1284499993
+s8471
+
+N/Users/jeska/code/iOS/HelloWorld/build/Debug-iphoneos/HelloWorld.app
+t2
+s0
+
+N/Users/jeska/code/iOS/HelloWorld/build/Debug-iphoneos/HelloWorld.app.dSYM
+t2
+s0
+
+N/Users/jeska/code/iOS/HelloWorld/build/Debug-iphoneos/HelloWorld.app/HelloWorld
+t2
+s0
+
+N/Users/jeska/code/iOS/HelloWorld/build/Debug-iphoneos/HelloWorld.app/Info.plist
+t2
+s0
+
+N/Users/jeska/code/iOS/HelloWorld/build/Debug-iphoneos/HelloWorld.app/MainWindow.nib
+t2
+s0
+
+N/Users/jeska/code/iOS/HelloWorld/build/Debug-iphoneos/HelloWorld.app/PkgInfo
+t2
+s0
+
+N/Users/jeska/code/iOS/HelloWorld/build/Debug-iphoneos/HelloWorld.app/ResourceRules.plist
+t2
+s0
+
+N/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorld
+t2
+s0
+
+N/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorld.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldAppDelegate.o
+t2
+s0
+
+N/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorld
+t2
+s0
+
+N/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorld.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorldAppDelegate.o
+t2
+s0
+
+N/Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/jeska/code/iOS/HelloWorld/main.m
+c000000004C8FEA190000000000000172
+t1284499993
+s370
+i<UIKit/UIKit.h>
+
+N/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-esajjuspuwrtfffrhsjwfxwmqhqa/HelloWorld_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-gvvdxudomjtahxhabfsyqoopkwac/HelloWorld_Prefix.pch.gch
+t2
+s0
+
+NHelloWorld-Info.plist
+c000000004C8FEA19000000000000038D
+t1284499993
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies306192809#306192809#0(133"[BEROR]Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain1(4@125"Code Sign error: The identity 'iPhone Developer' doesn't match any valid certificate/private key pair in the default keychain306192809#18446744073709551615#0#0(1@0"0(0#1#0"8614620160#0"0#
+
+CCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorldAppDelegate.o /Users/jeska/code/iOS/HelloWorld/Classes/HelloWorldAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/main.o /Users/jeska/code/iOS/HelloWorld/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorldAppDelegate.o /Users/jeska/code/iOS/HelloWorld/Classes/HelloWorldAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/main.o /Users/jeska/code/iOS/HelloWorld/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/jeska/code/iOS/HelloWorld/MainWindow.xib
+r0
+
+CCpResource build/Debug-iphoneos/HelloWorld.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary /Users/jeska/code/iOS/HelloWorld/build/Debug-iphoneos/HelloWorld.app/HelloWorld normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile /Users/jeska/code/iOS/HelloWorld/build/Debug-iphoneos/HelloWorld.app.dSYM /Users/jeska/code/iOS/HelloWorld/build/Debug-iphoneos/HelloWorld.app/HelloWorld
+r0
+
+CLd /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv6/HelloWorld normal armv6
+r0
+
+CLd /Users/jeska/code/iOS/HelloWorld/build/HelloWorld.build/Debug-iphoneos/HelloWorld.build/Objects-normal/armv7/HelloWorld normal armv7
+r0
+
+CProcessInfoPlistFile /Users/jeska/code/iOS/HelloWorld/build/Debug-iphoneos/HelloWorld.app/Info.plist HelloWorld-Info.plist
+r0
+
+CProcessPCH /var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-esajjuspuwrtfffrhsjwfxwmqhqa/HelloWorld_Prefix.pch.gch HelloWorld_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/gP/gPbZogy+Fk4nLbOPpl-J+E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloWorld_Prefix-gvvdxudomjtahxhabfsyqoopkwac/HelloWorld_Prefix.pch.gch HelloWorld_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/jeska/code/iOS/HelloWorld/build/Debug-iphoneos/HelloWorld.app
+r0
+
