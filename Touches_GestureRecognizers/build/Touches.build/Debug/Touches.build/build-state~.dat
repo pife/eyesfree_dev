@@ -1,0 +1,176 @@
+TTouches
+v7
+r1
+cCheck dependencies
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/CyanSquare.png
+c000000004C06A01B000000000000191A
+t1275502619
+s6426
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Default.png
+c000000004C06A01B0000000000004B3C
+t1275502619
+s19260
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Icon-72.png
+c000000004C2B6BD50000000000000427
+t1277914069
+s1063
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Icon-Small-50.png
+c000000004C2B6BD500000000000003E0
+t1277914069
+s992
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Icon-Small.png
+c000000004C2B6BD50000000000000396
+t1277914069
+s918
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Icon-Small@2x.png
+c000000004C2B6BD500000000000003F2
+t1277914069
+s1010
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Icon.png
+c000000004C2B6BD500000000000003EF
+t1277914069
+s1007
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Icon@2x.png
+c000000004C2B6BD500000000000004E4
+t1277914069
+s1252
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/MagentaSquare.png
+c000000004C06A01B00000000000019CE
+t1275502619
+s6606
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/YellowSquare.png
+c000000004C06A01B0000000000000F03
+t1275502619
+s3843
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/iTunesArtwork
+c000000004C2B6BD50000000000001444
+t1277914069
+s5188
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug/Touches.app
+t2
+s0
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug/Touches.app/Contents/Info.plist
+t2
+s0
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug/Touches.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug/Touches.app/Contents/Resources/CyanSquare.png
+t2
+s0
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug/Touches.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug/Touches.app/Contents/Resources/Icon-72.png
+t2
+s0
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug/Touches.app/Contents/Resources/Icon-Small-50.png
+t2
+s0
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug/Touches.app/Contents/Resources/Icon-Small.png
+t2
+s0
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug/Touches.app/Contents/Resources/Icon-Small@2x.png
+t2
+s0
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug/Touches.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug/Touches.app/Contents/Resources/Icon@2x.png
+t2
+s0
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug/Touches.app/Contents/Resources/MagentaSquare.png
+t2
+s0
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug/Touches.app/Contents/Resources/YellowSquare.png
+t2
+s0
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug/Touches.app/Contents/Resources/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug/Touches.app/Contents/Resources/iTunesArtwork
+t2
+s0
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/en.lproj/MainWindow.xib
+c000000004C06ABC80000000000007F19
+t1275505608
+s32537
+
+NInfo.plist
+c000000004C2B6C6F0000000000000499
+t1277914223
+s1177
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311788785#311788785#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.0'1(4@58"error: There is no SDK with the name or path 'iphoneos4.0'311788785#18446744073709551615#0#0(1@0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileXIB /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/en.lproj/MainWindow.xib
+r0
+
+CCpResource build/Debug/Touches.app/Contents/Resources/CyanSquare.png Images/CyanSquare.png
+r0
+
+CCpResource build/Debug/Touches.app/Contents/Resources/Default.png Images/Default.png
+r0
+
+CCpResource build/Debug/Touches.app/Contents/Resources/Icon-72.png Images/Icon-72.png
+r0
+
+CCpResource build/Debug/Touches.app/Contents/Resources/Icon-Small-50.png Images/Icon-Small-50.png
+r0
+
+CCpResource build/Debug/Touches.app/Contents/Resources/Icon-Small.png Images/Icon-Small.png
+r0
+
+CCpResource build/Debug/Touches.app/Contents/Resources/Icon-Small@2x.png Images/Icon-Small@2x.png
+r0
+
+CCpResource build/Debug/Touches.app/Contents/Resources/Icon.png Images/Icon.png
+r0
+
+CCpResource build/Debug/Touches.app/Contents/Resources/Icon@2x.png Images/Icon@2x.png
+r0
+
+CCpResource build/Debug/Touches.app/Contents/Resources/MagentaSquare.png Images/MagentaSquare.png
+r0
+
+CCpResource build/Debug/Touches.app/Contents/Resources/YellowSquare.png Images/YellowSquare.png
+r0
+
+CCpResource build/Debug/Touches.app/Contents/Resources/iTunesArtwork Images/iTunesArtwork
+r0
+
+CProcessInfoPlistFile /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug/Touches.app/Contents/Info.plist Info.plist
+r0
+
+CTouch /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug/Touches.app
+r0
+

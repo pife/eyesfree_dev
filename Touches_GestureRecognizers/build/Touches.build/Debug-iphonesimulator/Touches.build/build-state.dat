@@ -1,0 +1,506 @@
+TTouches
+v7
+r0
+t311967630.447183
+cCheck dependencies
+cProcessInfoPlistFile /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/Info.plist Info.plist
+cCpResource build/Debug-iphonesimulator/Touches.app/CyanSquare.png Images/CyanSquare.png
+cCpResource build/Debug-iphonesimulator/Touches.app/Default.png Images/Default.png
+cCpResource build/Debug-iphonesimulator/Touches.app/Icon.png Images/Icon.png
+cCpResource build/Debug-iphonesimulator/Touches.app/MagentaSquare.png Images/MagentaSquare.png
+cCpResource build/Debug-iphonesimulator/Touches.app/YellowSquare.png Images/YellowSquare.png
+cCompileXIB /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/en.lproj/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/Touches.app/Icon-72.png Images/Icon-72.png
+cCpResource build/Debug-iphonesimulator/Touches.app/Icon-Small-50.png Images/Icon-Small-50.png
+cCpResource build/Debug-iphonesimulator/Touches.app/Icon-Small.png Images/Icon-Small.png
+cCpResource build/Debug-iphonesimulator/Touches.app/Icon-Small@2x.png Images/Icon-Small@2x.png
+cCpResource build/Debug-iphonesimulator/Touches.app/Icon@2x.png Images/Icon@2x.png
+cCpResource build/Debug-iphonesimulator/Touches.app/iTunesArtwork Images/iTunesArtwork
+cProcessPCH /var/folders/qi/qiBOABv7Hba+3Ck4lfgZdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-cdfdqxwqlgytcdcybcmycuqqccql/Touches_Prefix.pch.gch Touches_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/main.o /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/TouchesAppDelegate.o /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Classes/TouchesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/MyView.o /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Classes/MyView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/Touches normal i386
+cGenerateDSYMFile /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app.dSYM /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/Touches
+cTouch /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C494D260000000000000110
+t1279872294
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004BD1D01E000000000000007D
+t1272041502
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C5A505200000000000000C4
+t1280987218
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Classes/MyView.h
+c000000004CE8050A0000000000000EE0
+t1290274058
+s3808
+i<UIKit/UIKit.h>
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Classes/MyView.m
+c000000004CE809E8000000000000396B
+t1290275304
+s14699
+i<QuartzCore/QuartzCore.h>
+i"MyView.h"
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Classes/TouchesAppDelegate.h
+c000000004C2D08DA0000000000000A5A
+t1278019802
+s2650
+i<UIKit/UIKit.h>
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Classes/TouchesAppDelegate.m
+c000000004CE5AD8A0000000000000C1E
+t1290120586
+s3102
+i"TouchesAppDelegate.h"
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/CyanSquare.png
+c000000004C06A01B000000000000191A
+t1275502619
+s6426
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Default.png
+c000000004C06A01B0000000000004B3C
+t1275502619
+s19260
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Icon-72.png
+c000000004C2B6BD50000000000000427
+t1277914069
+s1063
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Icon-Small-50.png
+c000000004C2B6BD500000000000003E0
+t1277914069
+s992
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Icon-Small.png
+c000000004C2B6BD50000000000000396
+t1277914069
+s918
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Icon-Small@2x.png
+c000000004C2B6BD500000000000003F2
+t1277914069
+s1010
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Icon.png
+c000000004C2B6BD500000000000003EF
+t1277914069
+s1007
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Icon@2x.png
+c000000004C2B6BD500000000000004E4
+t1277914069
+s1252
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/MagentaSquare.png
+c000000004C06A01B00000000000019CE
+t1275502619
+s6606
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/YellowSquare.png
+c000000004C06A01B0000000000000F03
+t1275502619
+s3843
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/iTunesArtwork
+c000000004C2B6BD50000000000001444
+t1277914069
+s5188
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Touches_Prefix.pch
+c000000004C069F9000000000000000AF
+t1275502480
+s175
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app
+t1290274830
+s578
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app.dSYM
+t1290274830
+s102
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/CyanSquare.png
+t1290096238
+s6426
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/Default.png
+t1290096238
+s19260
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/Icon-72.png
+t1290096238
+s1063
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/Icon-Small-50.png
+t1290096238
+s992
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/Icon-Small.png
+t1290096238
+s918
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/Icon-Small@2x.png
+t1290096238
+s1010
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/Icon.png
+t1290096238
+s1007
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/Icon@2x.png
+t1290096238
+s1252
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/Info.plist
+t1290129737
+s780
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/MagentaSquare.png
+t1290096238
+s6606
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/PkgInfo
+t1290129737
+s8
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/Touches
+t1290274830
+s29428
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/YellowSquare.png
+t1290096238
+s3843
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/en.lproj/MainWindow.nib
+t1290129737
+s2775
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/iTunesArtwork
+t1290096238
+s5188
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/MyView.o
+t1290274830
+s71532
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/Touches.LinkFileList
+c000000004CE54E6E00000000000001BD
+t1290096238
+s445
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/TouchesAppDelegate.o
+t1290129738
+s40304
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/main.o
+t1290129738
+s6344
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/en.lproj/MainWindow.xib
+c000000004CE5C22B00000000000084E9
+t1290125867
+s34025
+
+N/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/main.m
+c000000004C2D08DA0000000000000A81
+t1278019802
+s2689
+i<UIKit/UIKit.h>
+
+N/var/folders/qi/qiBOABv7Hba+3Ck4lfgZdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-ccnbrxlzcohhgngzvsbzusgdtdwc/Touches_Prefix.pch.gch
+t1290120587
+s13825936
+
+N/var/folders/qi/qiBOABv7Hba+3Ck4lfgZdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-cdfdqxwqlgytcdcybcmycuqqccql/Touches_Prefix.pch.gch
+t1290096239
+s15215632
+
+NInfo.plist
+c000000004C2B6C6F0000000000000499
+t1277914223
+s1177
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311967630#311967630#0(0"0(0#1#0"8614891904#0"0#
+
+CCompileC build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/MyView.o /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Classes/MyView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311967630.269210
+e311967630.414781
+r1
+xCompileC
+xbuild/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/MyView.o
+x/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Classes/MyView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Classes/MyView.m311967630#311967630#0(0"0(0#0#76"/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Classes/MyView.m8614556832#2157"    cd /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-generated-files.hmap -I/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-own-target-headers.hmap -I/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-all-target-headers.hmap -iquote /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-project-headers.hmap -F/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator -I/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/include -I/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/DerivedSources/i386 -I/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/DerivedSources -include /var/folders/qi/qiBOABv7Hba+3Ck4lfgZdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-cdfdqxwqlgytcdcybcmycuqqccql/Touches_Prefix.pch -c /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Classes/MyView.m -o /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/MyView.o0#
+
+CCompileC build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/TouchesAppDelegate.o /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Classes/TouchesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311822537.682282
+e311822538.022878
+r1
+xCompileC
+xbuild/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/TouchesAppDelegate.o
+x/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Classes/TouchesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@96"Compile /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Classes/TouchesAppDelegate.m311822537#311822538#0(0"0(0#0#88"/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Classes/TouchesAppDelegate.m8613518848#2181"    cd /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-generated-files.hmap -I/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-own-target-headers.hmap -I/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-all-target-headers.hmap -iquote /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-project-headers.hmap -F/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator -I/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/include -I/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/DerivedSources/i386 -I/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/DerivedSources -include /var/folders/qi/qiBOABv7Hba+3Ck4lfgZdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-cdfdqxwqlgytcdcybcmycuqqccql/Touches_Prefix.pch -c /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Classes/TouchesAppDelegate.m -o /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/TouchesAppDelegate.o0#
+
+CCompileC build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/main.o /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311822537.681389
+e311822538.013602
+r1
+xCompileC
+xbuild/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/main.o
+x/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/main.m311822537#311822538#0(0"0(0#0#66"/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/main.m8627545056#2145"    cd /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-generated-files.hmap -I/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-own-target-headers.hmap -I/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-all-target-headers.hmap -iquote /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-project-headers.hmap -F/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator -I/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/include -I/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/DerivedSources/i386 -I/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/DerivedSources -include /var/folders/qi/qiBOABv7Hba+3Ck4lfgZdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-cdfdqxwqlgytcdcybcmycuqqccql/Touches_Prefix.pch -c /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/main.m -o /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/en.lproj/MainWindow.xib
+s311822537.270608
+e311822537.681157
+r1
+xCompileXIB
+x/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/en.lproj/MainWindow.xib
+lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib311822537#311822537#0(0"0(0#0#83"/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/en.lproj/MainWindow.xib8668668320#651"    cd /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/en.lproj/MainWindow.nib /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Touches.app/CyanSquare.png Images/CyanSquare.png
+s311789038.496677
+e311789038.522653
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Touches.app/CyanSquare.png
+xImages/CyanSquare.png
+lSLF07#2@26"Copy Images/CyanSquare.png311789038#311789038#0(0"0(0#0#81"/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/CyanSquare.png8598949440#528"    cd /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/CyanSquare.png /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app0#
+
+CCpResource build/Debug-iphonesimulator/Touches.app/Default.png Images/Default.png
+s311789038.497562
+e311789038.515030
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Touches.app/Default.png
+xImages/Default.png
+lSLF07#2@23"Copy Images/Default.png311789038#311789038#0(0"0(0#0#78"/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Default.png8606327424#525"    cd /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Default.png /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app0#
+
+CCpResource build/Debug-iphonesimulator/Touches.app/Icon-72.png Images/Icon-72.png
+s311789038.515478
+e311789038.522809
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Touches.app/Icon-72.png
+xImages/Icon-72.png
+lSLF07#2@23"Copy Images/Icon-72.png311789038#311789038#0(0"0(0#0#78"/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Icon-72.png8606699840#525"    cd /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Icon-72.png /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app0#
+
+CCpResource build/Debug-iphonesimulator/Touches.app/Icon-Small-50.png Images/Icon-Small-50.png
+s311789038.516117
+e311789038.523210
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Touches.app/Icon-Small-50.png
+xImages/Icon-Small-50.png
+lSLF07#2@29"Copy Images/Icon-Small-50.png311789038#311789038#0(0"0(0#0#84"/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Icon-Small-50.png8606467744#531"    cd /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Icon-Small-50.png /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app0#
+
+CCpResource build/Debug-iphonesimulator/Touches.app/Icon-Small.png Images/Icon-Small.png
+s311789038.516678
+e311789038.523361
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Touches.app/Icon-Small.png
+xImages/Icon-Small.png
+lSLF07#2@26"Copy Images/Icon-Small.png311789038#311789038#0(0"0(0#0#81"/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Icon-Small.png8606279264#528"    cd /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Icon-Small.png /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app0#
+
+CCpResource build/Debug-iphonesimulator/Touches.app/Icon-Small@2x.png Images/Icon-Small@2x.png
+s311789038.517826
+e311789038.526306
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Touches.app/Icon-Small@2x.png
+xImages/Icon-Small@2x.png
+lSLF07#2@29"Copy Images/Icon-Small@2x.png311789038#311789038#0(0"0(0#0#84"/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Icon-Small@2x.png8605657248#531"    cd /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Icon-Small@2x.png /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app0#
+
+CCpResource build/Debug-iphonesimulator/Touches.app/Icon.png Images/Icon.png
+s311789038.498188
+e311789038.522965
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Touches.app/Icon.png
+xImages/Icon.png
+lSLF07#2@20"Copy Images/Icon.png311789038#311789038#0(0"0(0#0#75"/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Icon.png8605422048#522"    cd /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Icon.png /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app0#
+
+CCpResource build/Debug-iphonesimulator/Touches.app/Icon@2x.png Images/Icon@2x.png
+s311789038.520537
+e311789038.526493
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Touches.app/Icon@2x.png
+xImages/Icon@2x.png
+lSLF07#2@23"Copy Images/Icon@2x.png311789038#311789038#0(0"0(0#0#78"/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Icon@2x.png8602649600#525"    cd /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/Icon@2x.png /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app0#
+
+CCpResource build/Debug-iphonesimulator/Touches.app/MagentaSquare.png Images/MagentaSquare.png
+s311789038.498802
+e311789038.515242
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Touches.app/MagentaSquare.png
+xImages/MagentaSquare.png
+lSLF07#2@29"Copy Images/MagentaSquare.png311789038#311789038#0(0"0(0#0#84"/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/MagentaSquare.png8605370464#531"    cd /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/MagentaSquare.png /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app0#
+
+CCpResource build/Debug-iphonesimulator/Touches.app/YellowSquare.png Images/YellowSquare.png
+s311789038.499829
+e311789038.515392
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Touches.app/YellowSquare.png
+xImages/YellowSquare.png
+lSLF07#2@28"Copy Images/YellowSquare.png311789038#311789038#0(0"0(0#0#83"/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/YellowSquare.png8607167648#530"    cd /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/YellowSquare.png /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app0#
+
+CCpResource build/Debug-iphonesimulator/Touches.app/iTunesArtwork Images/iTunesArtwork
+s311789038.521741
+e311789038.526717
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Touches.app/iTunesArtwork
+xImages/iTunesArtwork
+lSLF07#2@25"Copy Images/iTunesArtwork311789038#311789038#0(0"0(0#0#80"/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/iTunesArtwork8593632736#527"    cd /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Images/iTunesArtwork /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app0#
+
+CGenerateDSYMFile /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app.dSYM /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/Touches
+s311967630.433541
+e311967630.445047
+r1
+xGenerateDSYMFile
+x/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app.dSYM
+x/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/Touches
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/Touches.app.dSYM build/Debug-iphonesimulator/Touches.app/Touches311967630#311967630#0(0"0(0#0#107"/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/Touches8614564096#446"    cd /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/Touches -o /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app.dSYM0#
+
+CLd /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/Touches normal i386
+s311967630.414866
+e311967630.433452
+r1
+xLd
+x/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/Touches
+xnormal
+xi386
+lSLF07#2@112"Link /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/Touches311967630#311967630#0(0"0(0#0#0"8615062144#1005"    cd /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator -F/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator -filelist /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Objects-normal/i386/Touches.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework CoreGraphics -framework Foundation -o /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/Touches0#
+
+CProcessInfoPlistFile /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/Info.plist Info.plist
+s311822537.267568
+e311822537.270333
+r1
+xProcessInfoPlistFile
+x/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist311822537#311822537#0(0"0(0#0#70"/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Info.plist8671027328#534"    cd /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app/Info.plist0#
+
+CProcessPCH /var/folders/qi/qiBOABv7Hba+3Ck4lfgZdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-ccnbrxlzcohhgngzvsbzusgdtdwc/Touches_Prefix.pch.gch Touches_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311813387.015758
+e311813387.514705
+r1
+xProcessPCH
+x/var/folders/qi/qiBOABv7Hba+3Ck4lfgZdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-ccnbrxlzcohhgngzvsbzusgdtdwc/Touches_Prefix.pch.gch
+xTouches_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined
+o<command-line>: warning: this is the location of the previous definition
+lSLF07#2@29"Precompile Touches_Prefix.pch311813387#311813387#0(143"<command-line>: warning: "__IPHONE_OS_VERSION_MIN_REQUIRED" redefined<command-line>: warning: this is the location of the previous definition0(0#0#78"/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Touches_Prefix.pch8677413984#2057"    cd /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-generated-files.hmap -I/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-own-target-headers.hmap -I/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-all-target-headers.hmap -iquote /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-project-headers.hmap -F/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator -I/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/include -I/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/DerivedSources/i386 -I/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/DerivedSources -c /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Touches_Prefix.pch -o /var/folders/qi/qiBOABv7Hba+3Ck4lfgZdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-ccnbrxlzcohhgngzvsbzusgdtdwc/Touches_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/qi/qiBOABv7Hba+3Ck4lfgZdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-cdfdqxwqlgytcdcybcmycuqqccql/Touches_Prefix.pch.gch Touches_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311789038.891811
+e311789039.774637
+r1
+xProcessPCH
+x/var/folders/qi/qiBOABv7Hba+3Ck4lfgZdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-cdfdqxwqlgytcdcybcmycuqqccql/Touches_Prefix.pch.gch
+xTouches_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Touches_Prefix.pch311789038#311789039#0(0"0(0#0#78"/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Touches_Prefix.pch8605658784#2016"    cd /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-generated-files.hmap -I/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-own-target-headers.hmap -I/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-all-target-headers.hmap -iquote /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/Touches-project-headers.hmap -F/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator -I/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/include -I/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/DerivedSources/i386 -I/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Touches.build/Debug-iphonesimulator/Touches.build/DerivedSources -c /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/Touches_Prefix.pch -o /var/folders/qi/qiBOABv7Hba+3Ck4lfgZdk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Touches_Prefix-cdfdqxwqlgytcdcybcmycuqqccql/Touches_Prefix.pch.gch0#
+
+CTouch /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app
+s311967630.445122
+e311967630.447153
+r1
+xTouch
+x/Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app
+lSLF07#2@105"Touch /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app311967630#311967630#0(0"0(0#0#0"8614373344#320"    cd /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/pifonto/Downloads/Touches/Touches_GestureRecognizers/build/Debug-iphonesimulator/Touches.app0#
+
